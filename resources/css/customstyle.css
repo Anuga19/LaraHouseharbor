@@ -1,0 +1,33 @@
+#bgbutton{
+    background-color: rgb(23, 13, 168);
+    border-radius: 30px;
+    padding: 10px 20px 10px 20px;
+    margin-right: 20px;
+}
+#navbgcolor{
+    background-color: rgb(11, 17, 75);
+}
+
+#navbarpad{
+   padding: 0px;
+   margin: 0px;
+
+}
+
+#nounder a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+#submitButton{
+    background-color: rgb(16, 9, 107);
+    border: none;
+    margin-bottom: 0px;
+}
+#submitButton:hover{
+    background-color: rgb(24, 174, 211);
+    color: black;
+    font-weight: bold;
+}
+
